@@ -1,0 +1,29 @@
+#b{
+  color:green;
+  font-size: 90px;
+}
+
+.c{
+  background-color: yellow ;
+}
+
+.d{
+  padding-left: 450px;
+}
+
+.e{
+  padding-left: 400px;
+}
+
+.f{
+  padding-left: 810px;
+}
+
+.g{
+  padding-left: 760px;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
